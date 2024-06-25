@@ -1,0 +1,193 @@
+body{
+    background-color: #dad5d5;
+    height: auto;
+    /* background-image: url("https://i.pinimg.com/originals/81/dd/d3/81ddd367e580ac8909ea032cca1a50ca.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+.card-list{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+.card{
+    border: 3px solid #CD1738;
+    padding: 1px;
+    margin-right: 10px;
+    width: 40rem;
+    height: 40px;
+    background-color: #367BEA;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .5);
+    text-align: center;
+}
+
+.card-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.line{
+    height: 3px;
+    background-color: hsl(170, 47%, 59%);
+    margin: 8px;
+}
+
+.heading{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: #110a0b;
+}
+
+.card-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.card-child{
+    background-color: #8a8388;
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    padding: 20px;
+    width: 200px;
+    box-shadow: 1px 2px 4px rgba(221, 10, 10, 0.1);
+}
+
+.card-title{
+    font-size: 1.2em;
+    margin-bottom: 3px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.card-value{
+    font-size: 1.1em;
+    color: #07e62c;
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+}
+
+.short-line{
+    height: 2px;
+    background-color: #0b21ec;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.dropdown-container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.dropdown-container label {
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    width: 100px;
+}
+
+.dropdown-container .dcc-dropdown {
+    width: 90%; 
+    margin-right: 2%; 
+}
+
+.dropdown-pair{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 120px;
+}
+
+.dropdown-label{
+    display: inline-block;
+    width: 120px;
+}
+
+#batsman-dropdown,#year-dropdown, #bowler-dropdown, #bowler-year-dropdown, #teams-year-dropdown, #teams-dropdown{
+    width: 100%;
+    display: inline-block;
+    border: 1px solid #e24242;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.stats-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.stats-table td, .stats-table th{
+    border: 2px solid #70c2be81;
+    padding: 6px;
+    text-align: center;
+}
+
+.stats-table tr:nth-child(even){
+    background-color: #eea6a6;
+}
+
+.stats-table tr:hover{
+    background-color: #a3f112;
+}
+
+.table-header{
+    background-color: #0b21ec;
+}
+
+.graph-content-container{
+    border: 3px dashed rgb(165, 41, 236);
+    background-color: rgba(184, 243, 206, 0.7);
+}
+
+#comparison-batsman-dropdown, #comparison-bowler-dropdown, #comparison-teams-dropdown, #season-dropdown-overall{
+    width: 50%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 4px;
+    align-items: end;
+}
+
+.dropdown-label{
+    font-size: 200%;
+    width: 50%;
+    font-weight: bold;
+    color: #0b21ec;
+    text-align: right;
+    padding-right: 20px;
+}
+
+.comparison-container{
+    display: flex;
+    margin: 5px auto;
+    background-color: #ccc;
+    border: 2px dashed chocolate;
+    width: 100%;
+}
+
+.graph-row{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+
+.compare-batsman-graph{
+    flex: 1;
+    padding: 10px;
+}
