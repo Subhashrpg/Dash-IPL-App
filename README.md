@@ -62,10 +62,14 @@ Short video of the project:
 
 Here is a screenshot of the dashboard:
 
-![Batsman Page]((https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/batsman_page.png))
-![Bowler Page](https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/bowler_page.png)
-![Team Page](https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/teams_page.png)
-![Home Page](https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/home%20page.png)
+##### Batsman Page 
+<img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/batsman_page.png" width="400" hspace="20">
+##### Bowler Page 
+<img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/bowler_page.png" width="400" hspace="20">
+##### Team Page 
+<img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/teams_page.png" width="400" hspace="20">
+##### Home Page 
+<img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/home%20page.png" width="400" hspace="20">
 
 ## Technologies Used
 List the technologies and libraries used in the project:
@@ -84,6 +88,7 @@ Hit this link in your browser and you will get the wepage.
    git clone https://github.com/yourusername/ipl-dashboard.git
 
 ## Project Structure
+```
 Dash_app:.
 ├───analysis
 ├───assets
@@ -93,6 +98,7 @@ Dash_app:.
 ├───pages
 └───page_source
     └───processed data
+```
 
 ## Data
 The data used in this project is sourced from various publicly available IPL datasets. Here are the details:
@@ -109,7 +115,8 @@ The data used in this project is sourced from various publicly available IPL dat
 The dashboard includes various visualizations such as bar charts and line graphs to represent different aspects of IPL statistics.
 
 ## Examples
-```[def create_figure(bowler, year, metric):
+```
+[def create_figure(bowler, year, metric):
         if year != "Overall":
             title = f"{bowler} - {metric} in IPL {year}"
         else:
@@ -132,6 +139,7 @@ The dashboard includes various visualizations such as bar charts and line graphs
             paper_bgcolor= "rgba(284, 243, 206, 0.7)"
         )
         return fig
+```
 
 ## Contributing
 This communicates that while contributions are not actively sought at the moment, you are open to feedback and ideas. It also provides a contact point for anyone who wants to get in touch regarding the project. Adjust the email address as per your preference.
