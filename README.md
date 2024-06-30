@@ -119,7 +119,7 @@ The dashboard includes various visualizations such as bar charts and line graphs
 
 ## Examples
 ```
-[def create_figure(bowler, year, metric):
+def create_figure(bowler, year, metric):
         if year != "Overall":
             title = f"{bowler} - {metric} in IPL {year}"
         else:
