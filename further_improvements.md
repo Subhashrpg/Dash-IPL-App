@@ -1,4 +1,0 @@
-- code batsman.py file using OOP
-- Use encapsulation and inheretence as there are lot of functionalities that are repeated
-- improve data sharing b/w callbacks as same data is being used in different part of callback
-- seperate out functions according to different use case. In this version one single function is doing all the works instead need to seperate out the functionality.
