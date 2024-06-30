@@ -64,10 +64,13 @@ Here is a screenshot of the dashboard:
 
 ##### Batsman Page 
 <img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/batsman_page.png" width="400" hspace="20">
+
 ##### Bowler Page 
 <img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/bowler_page.png" width="400" hspace="20">
+
 ##### Team Page 
 <img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/teams_page.png" width="400" hspace="20">
+
 ##### Home Page 
 <img src="https://github.com/Subhashrpg/Dash_Ipl_App/blob/main/assets/screen%20shots/home%20page.png" width="400" hspace="20">
 
