@@ -109,7 +109,7 @@ The data used in this project is sourced from various publicly available IPL dat
 The dashboard includes various visualizations such as bar charts and line graphs to represent different aspects of IPL statistics.
 
 ## Examples
--[def create_figure(bowler, year, metric):
+```[def create_figure(bowler, year, metric):
         if year != "Overall":
             title = f"{bowler} - {metric} in IPL {year}"
         else:
@@ -131,7 +131,7 @@ The dashboard includes various visualizations such as bar charts and line graphs
             plot_bgcolor = "rgba(184, 243, 206, 0.7)",
             paper_bgcolor= "rgba(284, 243, 206, 0.7)"
         )
-        return fig]
+        return fig
 
 ## Contributing
 This communicates that while contributions are not actively sought at the moment, you are open to feedback and ideas. It also provides a contact point for anyone who wants to get in touch regarding the project. Adjust the email address as per your preference.
