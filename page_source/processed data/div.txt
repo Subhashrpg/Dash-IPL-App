@@ -1,0 +1,10 @@
+flex gap-2 p-2 tb:p-5 border-b border-r-2 border-cbBorderGrey items-center h-[80px] border-t
+flex gap-2 p-2 tb:p-5 border-b border-r-2 border-cbBorderGrey items-center h-[80px]
+bg-cbAntiFlash flex gap-2 p-2 tb:p-5 border-b border-r-2 border-cbBorderGrey items-center h-[80px]  
+bg-pink-50 flex gap-2 p-2 tb:p-5 border-b border-r-2 border-cbBorderGrey items-center h-[80px] 
+
+type 2 
+flex gap-2 p-2 tb:p-5 border-b border-cbBorderGrey items-center justify-end text-right h-[80px] border-t
+bg-cbAntiFlash flex gap-2 p-2 tb:p-5 border-b border-cbBorderGrey items-center justify-end text-right h-[80px] 
+flex gap-2 p-2 tb:p-5 border-b border-cbBorderGrey items-center justify-end text-right h-[80px]
+bg-pink-50 flex gap-2 p-2 tb:p-5 border-b border-cbBorderGrey items-center justify-end text-right h-[80px] border-t 

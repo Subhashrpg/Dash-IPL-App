@@ -1,0 +1,2580 @@
+{
+    "1st Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Kane Williamson ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Joshua Little ",
+                "Yash Dayal ",
+                "Alzarri Joseph "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Devon Conway ",
+                "Ruturaj Gaikwad ",
+                "Ben Stokes ",
+                "Ambati Rayudu ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "Shivam Dube ",
+                "MS Dhoni (C)",
+                "Mitchell Santner ",
+                "Deepak Chahar ",
+                "Rajvardhan Hangargekar "
+            ]
+        }
+    },
+    "2nd Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Shikhar Dhawan (C)",
+                "Prabhsimran Singh ",
+                "Bhanuka Rajapaksa ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Sam Curran ",
+                "Sikandar Raza ",
+                "Nathan Ellis ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Rahmanullah Gurbaz ",
+                "Mandeep Singh ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Shardul Thakur ",
+                "Sunil Narine ",
+                "Tim Southee ",
+                "Anukul Roy ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "4th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Mayank Agarwal ",
+                "Abhishek Sharma ",
+                "Rahul Tripathi ",
+                "Harry Brook ",
+                "Glenn Phillips ",
+                "Washington Sundar ",
+                "Bhuvneshwar Kumar (C)",
+                "Adil Rashid ",
+                "T Natarajan ",
+                "Umran Malik ",
+                "Fazalhaq Farooqi "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Devdutt Padikkal ",
+                "Sanju Samson (C)",
+                "Riyan Parag ",
+                "Shimron Hetmyer ",
+                "Jason Holder ",
+                "Ravichandran Ashwin ",
+                "Trent Boult ",
+                "KM Asif ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "6th Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Devon Conway ",
+                "Ruturaj Gaikwad ",
+                "Moeen Ali ",
+                "Ben Stokes ",
+                "Ambati Rayudu ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Shivam Dube ",
+                "Mitchell Santner ",
+                "Deepak Chahar ",
+                "RS  Hangargekar "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Krunal Pandya ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Krishnappa Gowtham ",
+                "Mark Wood ",
+                "Ravi Bishnoi ",
+                "Yash Thakur ",
+                "Avesh Khan "
+            ]
+        }
+    },
+    "7th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "Prithvi Shaw ",
+                "David Warner (C)",
+                "Mitchell Marsh ",
+                "Rilee Rossouw ",
+                "Sarfaraz Khan ",
+                "Axar Patel ",
+                "Abishek Porel ",
+                "Aman Hakim Khan ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Mukesh Kumar "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Hardik Pandya (C)",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Joshua Little ",
+                "Yash Dayal ",
+                "Alzarri Joseph "
+            ]
+        }
+    },
+    "8th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Riyan Parag ",
+                "Shimron Hetmyer ",
+                "Jason Holder ",
+                "Ravichandran Ashwin ",
+                "Trent Boult ",
+                "KM Asif ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Shikhar Dhawan (C)",
+                "Prabhsimran Singh ",
+                "Bhanuka Rajapaksa ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Sam Curran ",
+                "Sikandar Raza ",
+                "Nathan Ellis ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "9th Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "Mandeep Singh ",
+                "Rahmanullah Gurbaz ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Shardul Thakur ",
+                "Sunil Narine ",
+                "Tim Southee ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Dinesh Karthik ",
+                "Glenn Maxwell ",
+                "Michael Bracewell ",
+                "Shahbaz Ahmed ",
+                "David Willey ",
+                "Karn Sharma ",
+                "Harshal Patel ",
+                "Akash Deep ",
+                "Mohammed Siraj "
+            ]
+        }
+    },
+    "10th Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Romario Shepherd ",
+                "Krunal Pandya ",
+                "Amit Mishra ",
+                "Yash Thakur ",
+                "Jaydev Unadkat ",
+                "Ravi Bishnoi "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Mayank Agarwal ",
+                "Anmolpreet Singh ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Harry Brook ",
+                "Washington Sundar ",
+                "Abdul Samad ",
+                "Bhuvneshwar Kumar ",
+                "T Natarajan ",
+                "Umran Malik ",
+                "Adil Rashid "
+            ]
+        }
+    },
+    "11th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Jos Buttler ",
+                "Yashasvi Jaiswal ",
+                "Sanju Samson (C)",
+                "Riyan Parag ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Trent Boult ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Manish Pandey ",
+                "Rilee Rossouw ",
+                "Rovman Powell ",
+                "Lalit Yadav ",
+                "Axar Patel ",
+                "Abishek Porel ",
+                "Anrich Nortje ",
+                "Khaleel Ahmed ",
+                "Kuldeep Yadav ",
+                "Mukesh Kumar "
+            ]
+        }
+    },
+    "13th Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Abhinav Manohar ",
+                "Rashid Khan (C)",
+                "Mohammed Shami ",
+                "Alzarri Joseph ",
+                "Yash Dayal "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Rahmanullah Gurbaz ",
+                "N Jagadeesan ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Suyash Sharma ",
+                "Lockie Ferguson ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "15th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Mahipal Lomror ",
+                "Glenn Maxwell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Anuj Rawat ",
+                "David Willey ",
+                "Wayne Parnell ",
+                "Harshal Patel ",
+                "Mohammed Siraj "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Jaydev Unadkat ",
+                "Amit Mishra ",
+                "Avesh Khan ",
+                "Mark Wood ",
+                "Ravi Bishnoi "
+            ]
+        }
+    },
+    "16th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "Prithvi Shaw ",
+                "David Warner (C)",
+                "Manish Pandey ",
+                "Yash Dhull ",
+                "Rovman Powell ",
+                "Lalit Yadav ",
+                "Axar Patel ",
+                "Abishek Porel ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Mustafizur Rahman "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tilak Varma ",
+                "Nehal Wadhera ",
+                "Hrithik Shokeen ",
+                "Riley Meredith ",
+                "Arshad Khan ",
+                "Piyush Chawla ",
+                "Jason Behrendorff "
+            ]
+        }
+    },
+    "17th Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Devon Conway ",
+                "Ruturaj Gaikwad ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Sisanda Magala ",
+                "Maheesh Theekshana ",
+                "Tushar Deshpande ",
+                "Akash Singh "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Kuldeep Sen ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "18th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Prabhsimran Singh ",
+                "Shikhar Dhawan (C)",
+                "Matthew Short ",
+                "Bhanuka Rajapaksa ",
+                "Jitesh Sharma ",
+                "Sam Curran ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Kagiso Rabada ",
+                "Rishi Dhawan ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Hardik Pandya (C)",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Alzarri Joseph ",
+                "Mohammed Shami ",
+                "Mohit Sharma ",
+                "Joshua Little "
+            ]
+        }
+    },
+    "19th Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "Rahmanullah Gurbaz ",
+                "N Jagadeesan ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Umesh Yadav ",
+                "Suyash Sharma ",
+                "Lockie Ferguson ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Harry Brook ",
+                "Mayank Agarwal ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Abhishek Sharma ",
+                "Heinrich Klaasen ",
+                "Marco Jansen ",
+                "Bhuvneshwar Kumar ",
+                "Mayank Markande ",
+                "Umran Malik ",
+                "T Natarajan "
+            ]
+        }
+    },
+    "20th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Mahipal Lomror ",
+                "Glenn Maxwell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Wanindu Hasaranga ",
+                "Harshal Patel ",
+                "Wayne Parnell ",
+                "Mohammed Siraj ",
+                "Vijaykumar Vyshak "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Mitchell Marsh ",
+                "Yash Dhull ",
+                "Manish Pandey ",
+                "Axar Patel ",
+                "Aman Hakim Khan ",
+                "Lalit Yadav ",
+                "Abishek Porel ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Mustafizur Rahman "
+            ]
+        }
+    },
+    "22nd Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Tilak Varma ",
+                "Suryakumar Yadav (C)",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Arjun Tendulkar ",
+                "Hrithik Shokeen ",
+                "Piyush Chawla ",
+                "Duan Jansen ",
+                "Riley Meredith "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Rahmanullah Gurbaz ",
+                "Venkatesh Iyer ",
+                "N Jagadeesan ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Umesh Yadav ",
+                "Lockie Ferguson ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "24th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Mahipal Lomror ",
+                "Glenn Maxwell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Harshal Patel ",
+                "Wanindu Hasaranga ",
+                "Wayne Parnell ",
+                "Vijaykumar Vyshak ",
+                "Mohammed Siraj "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Devon Conway ",
+                "Ruturaj Gaikwad ",
+                "Ajinkya Rahane ",
+                "Shivam Dube ",
+                "Ambati Rayudu ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Maheesh Theekshana ",
+                "Tushar Deshpande ",
+                "Matheesha Pathirana "
+            ]
+        }
+    },
+    "25th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Mayank Agarwal ",
+                "Harry Brook ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Abhishek Sharma ",
+                "Washington Sundar ",
+                "Marco Jansen ",
+                "Bhuvneshwar Kumar ",
+                "Mayank Markande ",
+                "T Natarajan "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Tilak Varma ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Cameron Green ",
+                "Arjun Tendulkar ",
+                "Nehal Wadhera ",
+                "Hrithik Shokeen ",
+                "Piyush Chawla ",
+                "Jason Behrendorff "
+            ]
+        }
+    },
+    "26th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Jos Buttler ",
+                "Yashasvi Jaiswal ",
+                "Sanju Samson (C)",
+                "Riyan Parag ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Trent Boult ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Naveen-ul-Haq ",
+                "Avesh Khan ",
+                "Yudhvir Singh Charak ",
+                "Ravi Bishnoi "
+            ]
+        }
+    },
+    "27th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Atharva Taide ",
+                "Matthew Short ",
+                "Harpreet Singh Bhatia ",
+                "Liam Livingstone ",
+                "Sam Curran (C)",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Nathan Ellis ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli (C)",
+                "Faf du Plessis ",
+                "Mahipal Lomror ",
+                "Glenn Maxwell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Wanindu Hasaranga ",
+                "Suyash Prabhudessai ",
+                "Harshal Patel ",
+                "Wayne Parnell ",
+                "Mohammed Siraj "
+            ]
+        }
+    },
+    "29th Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Shivam Dube ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Maheesh Theekshana ",
+                "Tushar Deshpande ",
+                "Akash Singh ",
+                "Matheesha Pathirana "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Harry Brook ",
+                "Mayank Agarwal ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Abhishek Sharma ",
+                "Washington Sundar ",
+                "Marco Jansen ",
+                "Bhuvneshwar Kumar ",
+                "Mayank Markande ",
+                "Umran Malik "
+            ]
+        }
+    },
+    "30th Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Naveen-ul-Haq ",
+                "Amit Mishra ",
+                "Avesh Khan ",
+                "Ravi Bishnoi "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "Abhinav Manohar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Noor Ahmad ",
+                "Mohit Sharma "
+            ]
+        }
+    },
+    "32nd Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli (C)",
+                "Faf du Plessis ",
+                "Mahipal Lomror ",
+                "Glenn Maxwell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Suyash Prabhudessai ",
+                "David Willey ",
+                "Wanindu Hasaranga ",
+                "Mohammed Siraj ",
+                "Vijaykumar Vyshak "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Jos Buttler ",
+                "Yashasvi Jaiswal ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Trent Boult ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "34th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Abhishek Sharma ",
+                "Harry Brook ",
+                "Aiden Markram (C)",
+                "Mayank Agarwal ",
+                "Heinrich Klaasen ",
+                "Marco Jansen ",
+                "Washington Sundar ",
+                "Mayank Markande ",
+                "Bhuvneshwar Kumar ",
+                "T Natarajan ",
+                "Umran Malik "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Manish Pandey ",
+                "Sarfaraz Khan ",
+                "Axar Patel ",
+                "Aman Hakim Khan ",
+                "Ripal Patel ",
+                "Anrich Nortje ",
+                "Kuldeep Yadav ",
+                "Ishant Sharma "
+            ]
+        }
+    },
+    "35th Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Abhinav Manohar ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Noor Ahmad ",
+                "Mohit Sharma "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Kumar Kartikeya ",
+                "Arjun Tendulkar ",
+                "Riley Meredith ",
+                "Piyush Chawla ",
+                "Jason Behrendorff "
+            ]
+        }
+    },
+    "36th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli (C)",
+                "Shahbaz Ahmed ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Dinesh Karthik ",
+                "Suyash Prabhudessai ",
+                "Wanindu Hasaranga ",
+                "David Willey ",
+                "Vijaykumar Vyshak ",
+                "Harshal Patel ",
+                "Mohammed Siraj "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "N Jagadeesan ",
+                "Jason Roy ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "David Wiese ",
+                "Vaibhav Arora ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "37th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Devdutt Padikkal ",
+                "Sanju Samson (C)",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Adam Zampa ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana ",
+                "Akash Singh "
+            ]
+        }
+    },
+    "38th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Atharva Taide ",
+                "Shikhar Dhawan (C)",
+                "Sikandar Raza ",
+                "Liam Livingstone ",
+                "Sam Curran ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Kagiso Rabada ",
+                "Rahul Chahar ",
+                "Gurnoor Brar ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Naveen-ul-Haq ",
+                "Ravi Bishnoi ",
+                "Avesh Khan ",
+                "Yash Thakur "
+            ]
+        }
+    },
+    "39th Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "N Jagadeesan ",
+                "Rahmanullah Gurbaz ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "David Wiese ",
+                "Shardul Thakur ",
+                "Harshit Rana ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Abhinav Manohar ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Noor Ahmad ",
+                "Mohammed Shami ",
+                "Mohit Sharma ",
+                "Joshua Little "
+            ]
+        }
+    },
+    "41st Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Atharva Taide ",
+                "Shikhar Dhawan (C)",
+                "Liam Livingstone ",
+                "Sikandar Raza ",
+                "Sam Curran ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Kagiso Rabada ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "43rd Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Krishnappa Gowtham ",
+                "Ravi Bishnoi ",
+                "Naveen-ul-Haq ",
+                "Amit Mishra ",
+                "Yash Thakur "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Anuj Rawat ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Dinesh Karthik ",
+                "Suyash Prabhudessai ",
+                "Wanindu Hasaranga ",
+                "Karn Sharma ",
+                "Mohammed Siraj ",
+                "Josh Hazlewood "
+            ]
+        }
+    },
+    "44th Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Abhinav Manohar ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Noor Ahmad ",
+                "Mohammed Shami ",
+                "Mohit Sharma ",
+                "Joshua Little "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Manish Pandey ",
+                "Rilee Rossouw ",
+                "Priyam Garg ",
+                "Axar Patel ",
+                "Ripal Patel ",
+                "Aman Hakim Khan ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Ishant Sharma "
+            ]
+        }
+    },
+    "45th Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "Kyle Mayers ",
+                "Manan Vohra ",
+                "Karan Sharma ",
+                "Ayush Badoni ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Krunal Pandya (C)",
+                "Krishnappa Gowtham ",
+                "Naveen-ul-Haq ",
+                "Ravi Bishnoi ",
+                "Mohsin Khan "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        }
+    },
+    "47th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Mayank Agarwal ",
+                "Abhishek Sharma ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Harry Brook ",
+                "Abdul Samad ",
+                "Marco Jansen ",
+                "Mayank Markande ",
+                "Bhuvneshwar Kumar ",
+                "Kartik Tyagi ",
+                "T Natarajan "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Rahmanullah Gurbaz ",
+                "Jason Roy ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Vaibhav Arora ",
+                "Harshit Rana ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "48th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Trent Boult ",
+                "Adam Zampa ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Abhinav Manohar ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami ",
+                "Joshua Little "
+            ]
+        }
+    },
+    "49th Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tristan Stubbs ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Jofra Archer ",
+                "Piyush Chawla ",
+                "Akash Madhwal ",
+                "Arshad Khan "
+            ]
+        }
+    },
+    "51st Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Abhinav Manohar ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "Quinton de Kock ",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Krunal Pandya (C)",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Swapnil Singh ",
+                "Yash Thakur ",
+                "Ravi Bishnoi ",
+                "Mohsin Khan ",
+                "Avesh Khan "
+            ]
+        }
+    },
+    "53rd Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "Rahmanullah Gurbaz ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Rinku Singh ",
+                "Andre Russell ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Vaibhav Arora ",
+                "Harshit Rana ",
+                "Suyash Sharma ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Prabhsimran Singh ",
+                "Shikhar Dhawan (C)",
+                "Bhanuka Rajapaksa ",
+                "Liam Livingstone ",
+                "Jitesh Sharma ",
+                "Sam Curran ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rishi Dhawan ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "54th Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Chris Jordan ",
+                "Piyush Chawla ",
+                "Akash Madhwal ",
+                "Kumar Kartikeya ",
+                "Jason Behrendorff "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Anuj Rawat ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Dinesh Karthik ",
+                "Wanindu Hasaranga ",
+                "Harshal Patel ",
+                "Vijaykumar Vyshak ",
+                "Mohammed Siraj ",
+                "Josh Hazlewood "
+            ]
+        }
+    },
+    "55th Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Rilee Rossouw ",
+                "Axar Patel ",
+                "Aman Hakim Khan ",
+                "Ripal Patel ",
+                "Lalit Yadav ",
+                "Kuldeep Yadav ",
+                "Khaleel Ahmed ",
+                "Ishant Sharma "
+            ]
+        }
+    },
+    "56th Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "Rahmanullah Gurbaz ",
+                "Jason Roy ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Sunil Narine ",
+                "Shardul Thakur ",
+                "Anukul Roy ",
+                "Harshit Rana ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Joe Root ",
+                "Dhruv Jurel ",
+                "Shimron Hetmyer ",
+                "Ravichandran Ashwin ",
+                "Trent Boult ",
+                "Sandeep Sharma ",
+                "KM Asif ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "57th Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Ishan Kishan ",
+                "Rohit Sharma (C)",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Nehal Wadhera ",
+                "Tim David ",
+                "Chris Jordan ",
+                "Vishnu Vinod ",
+                "Piyush Chawla ",
+                "Jason Behrendorff ",
+                "Kumar Kartikeya "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Vijay Shankar ",
+                "Hardik Pandya (C)",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Abhinav Manohar ",
+                "Mohit Sharma ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Alzarri Joseph ",
+                "Noor Ahmad "
+            ]
+        }
+    },
+    "58th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Abhishek Sharma ",
+                "Anmolpreet Singh ",
+                "Rahul Tripathi ",
+                "Heinrich Klaasen ",
+                "Aiden Markram (C)",
+                "Glenn Phillips ",
+                "Abdul Samad ",
+                "T Natarajan ",
+                "Mayank Markande ",
+                "Bhuvneshwar Kumar ",
+                "Fazalhaq Farooqi "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "Quinton de Kock ",
+                "Kyle Mayers ",
+                "Krunal Pandya (C)",
+                "Prerak Mankad ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Amit Mishra ",
+                "Yash Thakur ",
+                "Ravi Bishnoi ",
+                "Yudhvir Singh Charak ",
+                "Avesh Khan "
+            ]
+        }
+    },
+    "60th Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Joe Root ",
+                "Dhruv Jurel ",
+                "Shimron Hetmyer ",
+                "Ravichandran Ashwin ",
+                "Adam Zampa ",
+                "Sandeep Sharma ",
+                "KM Asif ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Anuj Rawat ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Dinesh Karthik ",
+                "Michael Bracewell ",
+                "Wayne Parnell ",
+                "Karn Sharma ",
+                "Harshal Patel ",
+                "Mohammed Siraj "
+            ]
+        }
+    },
+    "62nd Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Shubman Gill ",
+                "Wriddhiman Saha ",
+                "Sai Sudharsan ",
+                "Hardik Pandya (C)",
+                "David Miller ",
+                "Dasun Shanaka ",
+                "Rahul Tewatia ",
+                "Mohit Sharma ",
+                "Rashid Khan ",
+                "Mohammed Shami ",
+                "Noor Ahmad "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Abhishek Sharma ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Abdul Samad ",
+                "Sanvir Singh ",
+                "Mayank Markande ",
+                "Marco Jansen ",
+                "Bhuvneshwar Kumar ",
+                "Fazalhaq Farooqi ",
+                "T Natarajan "
+            ]
+        }
+    },
+    "63rd Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "Quinton de Kock ",
+                "Deepak Hooda ",
+                "Prerak Mankad ",
+                "Krunal Pandya (C)",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Naveen-ul-Haq ",
+                "Ravi Bishnoi ",
+                "Swapnil Singh ",
+                "Mohsin Khan "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Nehal Wadhera ",
+                "Tim David ",
+                "Hrithik Shokeen ",
+                "Chris Jordan ",
+                "Piyush Chawla ",
+                "Jason Behrendorff ",
+                "Akash Madhwal "
+            ]
+        }
+    },
+    "64th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Shikhar Dhawan (C)",
+                "Atharva Taide ",
+                "Liam Livingstone ",
+                "Jitesh Sharma ",
+                "Sam Curran ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Kagiso Rabada ",
+                "Nathan Ellis ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Prithvi Shaw ",
+                "Philip Salt ",
+                "Rilee Rossouw ",
+                "Axar Patel ",
+                "Aman Hakim Khan ",
+                "Yash Dhull ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Ishant Sharma ",
+                "Khaleel Ahmed "
+            ]
+        }
+    },
+    "65th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Abhishek Sharma ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Harry Brook ",
+                "Glenn Phillips ",
+                "Abdul Samad ",
+                "Kartik Tyagi ",
+                "Mayank Dagar ",
+                "Bhuvneshwar Kumar ",
+                "Nitish Reddy "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Anuj Rawat ",
+                "Shahbaz Ahmed ",
+                "Michael Bracewell ",
+                "Wayne Parnell ",
+                "Harshal Patel ",
+                "Karn Sharma ",
+                "Mohammed Siraj "
+            ]
+        }
+    },
+    "66th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Shikhar Dhawan (C)",
+                "Prabhsimran Singh ",
+                "Atharva Taide ",
+                "Liam Livingstone ",
+                "Sam Curran ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Kagiso Rabada ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Shimron Hetmyer ",
+                "Riyan Parag ",
+                "Adam Zampa ",
+                "Trent Boult ",
+                "Navdeep Saini ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "67th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Rilee Rossouw ",
+                "Yash Dhull ",
+                "Aman Hakim Khan ",
+                "Axar Patel ",
+                "Lalit Yadav ",
+                "Kuldeep Yadav ",
+                "Chetan Sakariya ",
+                "Khaleel Ahmed ",
+                "Anrich Nortje "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        }
+    },
+    "69th Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Chris Jordan ",
+                "Piyush Chawla ",
+                "Jason Behrendorff ",
+                "Kumar Kartikeya ",
+                "Akash Madhwal "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Mayank Agarwal ",
+                "Vivrant Sharma ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Harry Brook ",
+                "Nitish Reddy ",
+                "Glenn Phillips ",
+                "Sanvir Singh ",
+                "Mayank Dagar ",
+                "Bhuvneshwar Kumar ",
+                "Umran Malik "
+            ]
+        }
+    },
+    "Qualifier 1": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Shubman Gill ",
+                "Wriddhiman Saha ",
+                "Hardik Pandya (C)",
+                "Dasun Shanaka ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Darshan Nalkande ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        }
+    },
+    "Eliminator": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "Ayush Badoni ",
+                "Deepak Hooda ",
+                "Prerak Mankad ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Krunal Pandya (C)",
+                "Krishnappa Gowtham ",
+                "Ravi Bishnoi ",
+                "Naveen-ul-Haq ",
+                "Yash Thakur ",
+                "Mohsin Khan "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Tilak Varma ",
+                "Chris Jordan ",
+                "Hrithik Shokeen ",
+                "Piyush Chawla ",
+                "Jason Behrendorff ",
+                "Akash Madhwal "
+            ]
+        }
+    },
+    "Qualifier 2": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Vijay Shankar ",
+                "Hardik Pandya (C)",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Ishan Kishan ",
+                "Rohit Sharma (C)",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tilak Varma ",
+                "Tim David ",
+                "Chris Jordan ",
+                "Piyush Chawla ",
+                "Jason Behrendorff ",
+                "Kumar Kartikeya ",
+                "Akash Madhwal "
+            ]
+        }
+    },
+    "Final": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "MS Dhoni (C)",
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Shivam Dube ",
+                "Ajinkya Rahane ",
+                "Ambati Rayudu ",
+                "Ravindra Jadeja ",
+                "Moeen Ali ",
+                "Deepak Chahar ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana ",
+                "Matheesha Pathirana ",
+                "Mitchell Santner ",
+                "Subhranshu Senapati ",
+                "Shaik Rasheed ",
+                "Akash Singh ",
+                "Ben Stokes ",
+                "Dwaine Pretorius ",
+                "Sisanda Magala ",
+                "Ajay Jadav Mandal ",
+                "Prashant Solanki ",
+                "Simarjeet Singh ",
+                "RS Hangargekar ",
+                "Bhagath Varma ",
+                "Nishant Sindhu "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Hardik Pandya (C)",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami ",
+                "Joshua Little ",
+                "Srikar Bharat ",
+                "Shivam Mavi ",
+                "Odean Smith ",
+                "Ravisrinivasan Sai Kishore ",
+                "Pradeep Sangwan ",
+                "Matthew Wade ",
+                "Jayant Yadav ",
+                "Dasun Shanaka ",
+                "Abhinav Manohar ",
+                "Alzarri Joseph ",
+                "Darshan Nalkande ",
+                "Urvil Patel ",
+                "Yash Dayal "
+            ]
+        }
+    },
+    "Final (Reserve day)": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Ambati Rayudu ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Hardik Pandya (C)",
+                "Vijay Shankar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami "
+            ]
+        }
+    },
+    "3rd Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Marcus Stoinis ",
+                "Deepak Hooda ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Mark Wood ",
+                "Jaydev Unadkat ",
+                "Ravi Bishnoi ",
+                "Avesh Khan "
+            ]
+        },
+        "team2": {
+            "name": "Delhi Capitals",
+            "team2_players": [
+                "David Warner (C)",
+                "Prithvi Shaw ",
+                "Mitchell Marsh ",
+                "Rilee Rossouw ",
+                "Sarfaraz Khan ",
+                "Rovman Powell ",
+                "Axar Patel ",
+                "Kuldeep Yadav ",
+                "Chetan Sakariya ",
+                "Khaleel Ahmed ",
+                "Mukesh Kumar "
+            ]
+        }
+    },
+    "5th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Glenn Maxwell ",
+                "Michael Bracewell ",
+                "Shahbaz Ahmed ",
+                "Dinesh Karthik ",
+                "Karn Sharma ",
+                "Harshal Patel ",
+                "Akash Deep ",
+                "Reece Topley ",
+                "Mohammed Siraj "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Suryakumar Yadav ",
+                "Cameron Green ",
+                "Tilak Varma ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Hrithik Shokeen ",
+                "Piyush Chawla ",
+                "Jofra Archer ",
+                "Arshad Khan "
+            ]
+        }
+    },
+    "12th Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tilak Varma ",
+                "Tim David ",
+                "Tristan Stubbs ",
+                "Arshad Khan ",
+                "Hrithik Shokeen ",
+                "Piyush Chawla ",
+                "Jason Behrendorff "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Devon Conway ",
+                "Ruturaj Gaikwad ",
+                "Ajinkya Rahane ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Shivam Dube ",
+                "Dwaine Pretorius ",
+                "Deepak Chahar ",
+                "Mitchell Santner ",
+                "Sisanda Magala ",
+                "Tushar Deshpande "
+            ]
+        }
+    },
+    "14th Match": {
+        "team1": {
+            "name": "Sunrisers Hyderabad",
+            "team1_players": [
+                "Mayank Agarwal ",
+                "Harry Brook ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Washington Sundar ",
+                "Marco Jansen ",
+                "Bhuvneshwar Kumar ",
+                "Mayank Markande ",
+                "Umran Malik ",
+                "T Natarajan "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Shikhar Dhawan (C)",
+                "Prabhsimran Singh ",
+                "Matthew Short ",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Sam Curran ",
+                "Nathan Ellis ",
+                "Mohit Rathee ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "21st Match": {
+        "team1": {
+            "name": "Lucknow Super Giants",
+            "team1_players": [
+                "KL Rahul (C)",
+                "Kyle Mayers ",
+                "Deepak Hooda ",
+                "Marcus Stoinis ",
+                "Krunal Pandya ",
+                "Nicholas Pooran ",
+                "Ayush Badoni ",
+                "Avesh Khan ",
+                "Yudhvir Singh Charak ",
+                "Mark Wood ",
+                "Ravi Bishnoi "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Atharva Taide ",
+                "Matthew Short ",
+                "Harpreet Singh Bhatia ",
+                "Sikandar Raza ",
+                "Sam Curran (C)",
+                "Jitesh Sharma ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Kagiso Rabada ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "23rd Match": {
+        "team1": {
+            "name": "Gujarat Titans",
+            "team1_players": [
+                "Wriddhiman Saha ",
+                "Shubman Gill ",
+                "Sai Sudharsan ",
+                "Hardik Pandya (C)",
+                "Abhinav Manohar ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Alzarri Joseph ",
+                "Mohammed Shami ",
+                "Mohit Sharma "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Jos Buttler ",
+                "Yashasvi Jaiswal ",
+                "Sanju Samson (C)",
+                "Riyan Parag ",
+                "Shimron Hetmyer ",
+                "Dhruv Jurel ",
+                "Ravichandran Ashwin ",
+                "Trent Boult ",
+                "Adam Zampa ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "28th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Manish Pandey ",
+                "Axar Patel ",
+                "Aman Hakim Khan ",
+                "Lalit Yadav ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Ishant Sharma ",
+                "Mukesh Kumar "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Jason Roy ",
+                "Litton Das ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Mandeep Singh ",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Sunil Narine ",
+                "Kulwant Khejroliya ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "31st Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tim David ",
+                "Tilak Varma ",
+                "Arjun Tendulkar ",
+                "Hrithik Shokeen ",
+                "Jofra Archer ",
+                "Piyush Chawla ",
+                "Jason Behrendorff "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Atharva Taide ",
+                "Prabhsimran Singh ",
+                "Matthew Short ",
+                "Liam Livingstone ",
+                "Sam Curran (C)",
+                "Jitesh Sharma ",
+                "Harpreet Singh Bhatia ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "33rd Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "N Jagadeesan ",
+                "Jason Roy ",
+                "Nitish Rana (C)",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Sunil Narine ",
+                "David Wiese ",
+                "Kulwant Khejroliya ",
+                "Suyash Sharma ",
+                "Umesh Yadav ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Chennai Super Kings",
+            "team2_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Moeen Ali ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Matheesha Pathirana ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        }
+    },
+    "40th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Manish Pandey ",
+                "Priyam Garg ",
+                "Axar Patel ",
+                "Ripal Patel ",
+                "Kuldeep Yadav ",
+                "Anrich Nortje ",
+                "Ishant Sharma ",
+                "Mukesh Kumar "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Mayank Agarwal ",
+                "Abhishek Sharma ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Harry Brook ",
+                "Abdul Samad ",
+                "Mayank Markande ",
+                "Bhuvneshwar Kumar ",
+                "Akeal Hosein ",
+                "Umran Malik "
+            ]
+        }
+    },
+    "42nd Match": {
+        "team1": {
+            "name": "Mumbai Indians",
+            "team1_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Suryakumar Yadav ",
+                "Tilak Varma ",
+                "Tim David ",
+                "Jofra Archer ",
+                "Piyush Chawla ",
+                "Kumar Kartikeya ",
+                "Riley Meredith ",
+                "Arshad Khan "
+            ]
+        },
+        "team2": {
+            "name": "Rajasthan Royals",
+            "team2_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Devdutt Padikkal ",
+                "Dhruv Jurel ",
+                "Shimron Hetmyer ",
+                "Ravichandran Ashwin ",
+                "Jason Holder ",
+                "Trent Boult ",
+                "Sandeep Sharma ",
+                "Yuzvendra Chahal "
+            ]
+        }
+    },
+    "46th Match": {
+        "team1": {
+            "name": "Punjab Kings",
+            "team1_players": [
+                "Prabhsimran Singh ",
+                "Shikhar Dhawan (C)",
+                "Matthew Short ",
+                "Liam Livingstone ",
+                "Jitesh Sharma ",
+                "Sam Curran ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rishi Dhawan ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        },
+        "team2": {
+            "name": "Mumbai Indians",
+            "team2_players": [
+                "Rohit Sharma (C)",
+                "Ishan Kishan ",
+                "Cameron Green ",
+                "Tilak Varma ",
+                "Tim David ",
+                "Nehal Wadhera ",
+                "Jofra Archer ",
+                "Piyush Chawla ",
+                "Kumar Kartikeya ",
+                "Akash Madhwal ",
+                "Arshad Khan "
+            ]
+        }
+    },
+    "50th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Rilee Rossouw ",
+                "Manish Pandey ",
+                "Aman Hakim Khan ",
+                "Axar Patel ",
+                "Kuldeep Yadav ",
+                "Mukesh Kumar ",
+                "Ishant Sharma ",
+                "Khaleel Ahmed "
+            ]
+        },
+        "team2": {
+            "name": "Royal Challengers Bangalore",
+            "team2_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Anuj Rawat ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Dinesh Karthik ",
+                "Kedar Jadhav ",
+                "Wanindu Hasaranga ",
+                "Karn Sharma ",
+                "Mohammed Siraj ",
+                "Josh Hazlewood "
+            ]
+        }
+    },
+    "52nd Match": {
+        "team1": {
+            "name": "Rajasthan Royals",
+            "team1_players": [
+                "Yashasvi Jaiswal ",
+                "Jos Buttler ",
+                "Sanju Samson (C)",
+                "Joe Root ",
+                "Dhruv Jurel ",
+                "Shimron Hetmyer ",
+                "Ravichandran Ashwin ",
+                "Murugan Ashwin ",
+                "Sandeep Sharma ",
+                "Kuldip Yadav ",
+                "Yuzvendra Chahal "
+            ]
+        },
+        "team2": {
+            "name": "Sunrisers Hyderabad",
+            "team2_players": [
+                "Abhishek Sharma ",
+                "Rahul Tripathi ",
+                "Aiden Markram (C)",
+                "Heinrich Klaasen ",
+                "Glenn Phillips ",
+                "Abdul Samad ",
+                "Marco Jansen ",
+                "Vivrant Sharma ",
+                "Mayank Markande ",
+                "Bhuvneshwar Kumar ",
+                "T Natarajan "
+            ]
+        }
+    },
+    "59th Match": {
+        "team1": {
+            "name": "Delhi Capitals",
+            "team1_players": [
+                "David Warner (C)",
+                "Philip Salt ",
+                "Mitchell Marsh ",
+                "Rilee Rossouw ",
+                "Aman Hakim Khan ",
+                "Axar Patel ",
+                "Praveen Dubey ",
+                "Kuldeep Yadav ",
+                "Ishant Sharma ",
+                "Khaleel Ahmed ",
+                "Mukesh Kumar "
+            ]
+        },
+        "team2": {
+            "name": "Punjab Kings",
+            "team2_players": [
+                "Prabhsimran Singh ",
+                "Shikhar Dhawan (C)",
+                "Liam Livingstone ",
+                "Jitesh Sharma ",
+                "Sam Curran ",
+                "Sikandar Raza ",
+                "Shahrukh Khan ",
+                "Harpreet Brar ",
+                "Rishi Dhawan ",
+                "Rahul Chahar ",
+                "Arshdeep Singh "
+            ]
+        }
+    },
+    "61st Match": {
+        "team1": {
+            "name": "Chennai Super Kings",
+            "team1_players": [
+                "Ruturaj Gaikwad ",
+                "Devon Conway ",
+                "Ajinkya Rahane ",
+                "Ambati Rayudu ",
+                "Shivam Dube ",
+                "Moeen Ali ",
+                "Ravindra Jadeja ",
+                "MS Dhoni (C)",
+                "Deepak Chahar ",
+                "Tushar Deshpande ",
+                "Maheesh Theekshana "
+            ]
+        },
+        "team2": {
+            "name": "Kolkata Knight Riders",
+            "team2_players": [
+                "Rahmanullah Gurbaz ",
+                "Jason Roy ",
+                "Nitish Rana (C)",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Shardul Thakur ",
+                "Sunil Narine ",
+                "Vaibhav Arora ",
+                "Harshit Rana ",
+                "Suyash Sharma ",
+                "Varun Chakaravarthy "
+            ]
+        }
+    },
+    "68th Match": {
+        "team1": {
+            "name": "Kolkata Knight Riders",
+            "team1_players": [
+                "Rahmanullah Gurbaz ",
+                "Jason Roy ",
+                "Venkatesh Iyer ",
+                "Nitish Rana (C)",
+                "Andre Russell ",
+                "Rinku Singh ",
+                "Shardul Thakur ",
+                "Sunil Narine ",
+                "Vaibhav Arora ",
+                "Harshit Rana ",
+                "Varun Chakaravarthy "
+            ]
+        },
+        "team2": {
+            "name": "Lucknow Super Giants",
+            "team2_players": [
+                "Quinton de Kock ",
+                "Karan Sharma ",
+                "Prerak Mankad ",
+                "Marcus Stoinis ",
+                "Nicholas Pooran ",
+                "Krunal Pandya (C)",
+                "Ayush Badoni ",
+                "Krishnappa Gowtham ",
+                "Ravi Bishnoi ",
+                "Naveen-ul-Haq ",
+                "Mohsin Khan "
+            ]
+        }
+    },
+    "70th Match": {
+        "team1": {
+            "name": "Royal Challengers Bangalore",
+            "team1_players": [
+                "Virat Kohli ",
+                "Faf du Plessis (C)",
+                "Michael Bracewell ",
+                "Glenn Maxwell ",
+                "Mahipal Lomror ",
+                "Anuj Rawat ",
+                "Dinesh Karthik ",
+                "Harshal Patel ",
+                "Wayne Parnell ",
+                "Mohammed Siraj ",
+                "Vijaykumar Vyshak "
+            ]
+        },
+        "team2": {
+            "name": "Gujarat Titans",
+            "team2_players": [
+                "Shubman Gill ",
+                "Wriddhiman Saha ",
+                "Hardik Pandya (C)",
+                "Dasun Shanaka ",
+                "David Miller ",
+                "Rahul Tewatia ",
+                "Rashid Khan ",
+                "Mohit Sharma ",
+                "Noor Ahmad ",
+                "Mohammed Shami ",
+                "Yash Dayal "
+            ]
+        }
+    }
+}
