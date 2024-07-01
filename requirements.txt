@@ -4,3 +4,4 @@ pandas==2.2.2
 plotly==5.22.0
 regex==2024.5.15
 selenium==4.22.0
+gunicorn
