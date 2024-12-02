@@ -88,7 +88,7 @@ List the technologies and libraries used in the project:
 Hit this link in your browser and you will get the wepage.
 1. **Website**:
    ```sh
-   git clone https://github.com/yourusername/ipl-dashboard.git
+   git clone https://github.com/Subhashrpg/ipl-dashboard.git
 
 ## Project Structure
 ```
